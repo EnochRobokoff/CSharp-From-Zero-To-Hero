@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using Console = System.Console;
-
-namespace BootCamp.Chapter
+﻿namespace BootCamp.Chapter
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Lesson3.Demo();
+            Lesson4.Demo();
         }
     }
 }
